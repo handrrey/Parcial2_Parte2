@@ -12,4 +12,3 @@ class ControlPlagas (Producto_Control):
     @periodo_carencia.setter
     def periodo_carencia(self, periodo_carencia):
         self.__periodo_carencia = periodo_carencia
-

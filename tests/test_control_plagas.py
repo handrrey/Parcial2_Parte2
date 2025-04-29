@@ -31,5 +31,3 @@ class TestControlPlagas(unittest.TestCase):
     def test_precio_invalido(self):
         with self.assertRaises(ValueError):
             ControlPlagas("ICA002", "BugOff", "Trimestral", -10, 20)
-
-

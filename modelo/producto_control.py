@@ -48,5 +48,3 @@ class Producto_Control:
 
     def asociar(self, factura):
         self.facturas = factura
-
-    # no sabemos como va :)

@@ -41,5 +41,3 @@ class Cliente:
     @cedula.setter
     def cedula(self, cedula):
         self.__cedula = cedula
-
-

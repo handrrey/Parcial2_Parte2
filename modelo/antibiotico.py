@@ -42,4 +42,3 @@ class Antibiotico:
     @tipo_animal.setter
     def tipo_animal(self, tipo_animal):
         self.__tipo_animal = tipo_animal
-
